@@ -1,0 +1,34 @@
+{
+    "name": "get 938700 points without getting hit",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "sprite-scaling": "*",
+        "corgio": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.42",
+        "tag": "v2.0.42",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/743148c8250637afc045e41de0f1771bfc591dcc",
+        "target": "2.0.56",
+        "pxt": "11.3.50",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
